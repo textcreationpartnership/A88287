@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>William Lilly student in astrologie, his past and present opinion touching monarchy in these nations: and his decision of the controversie between the Normans and the Long-Parliament.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88287</idno><idno type="EEBO-CITATION">99867474</idno>
+  <idno type="VID">168860</idno>
+  <idno type="EEBO-PROQUEST">2240925883</idno>
+  
+            <idno type="STC">Wing L2236</idno>
+            <idno type="STC">Thomason E1023_6</idno>
+            <idno type="STC">ESTC R208528</idno>
+            <idno type="PROQUEST">99867474</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867474e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88287)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168860)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1023[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>William Lilly student in astrologie, his past and present opinion touching monarchy in these nations: and his decision of the controversie between the Normans and the Long-Parliament.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>[2], 6   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Refers to predictions made in Lilly's: Monarchy or no monarchy in England .. 1651.</note>
+                  <note>Annotation on Thomason copy: "May 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lilly, William, 1602-1681. --  Monarchy or no monarchy in England.</term>
+               <term type="topical_term">Monarchy --  England --  Early works to 1800.</term>
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168860:1"/>
+            <p>William Lilly Student in Astrologie, His past and present Opinion touching MONARCHY In these NATIONS: And his Decision of the Controversie between the NORMANS AND The Long-PARLIAMENT.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168860:2"/>
+            <head>To the READER</head>
+            <p>WE cannot but acknowledge our exceeding great over<g ref="char:EOLhyphen"/>sight lately committed, in imploying that impudent, ig<g ref="char:EOLhyphen"/>norant, Spirit-Mongring Mountebank-Quack, <hi>Dick Sanders</hi> the Baker (who we know, and heard it justified, that he cheated Mr <hi>Birt</hi> of <hi>100</hi> l. under pretence of shewing him Faces in a Glass,) to vindicate our (never to be repaired) reputation, against <hi>G.J.</hi> or <hi>J.G.</hi> who hath perform'd it more simply, then his <hi>W.</hi> used to perform with <hi>H.B.</hi> in putting it into a nonsensical illi<g ref="char:EOLhyphen"/>terate Grubstreet abusive Pamphlet; which our self is even ashamed to read. <hi>For we must confess our self a Taylor, and no Scholar;</hi> (As our Mot in our <hi>Anglicus 1657. Ab altero speres, altero quod feceris,</hi> loudly proclaims.) And that <hi>J. G.</hi> did pay our Servants wages three yeers together, by our own direction and appointment, which <hi>R. S.</hi> did for some yeers before: and we confess also, that we did (by our insinuating) Trepan <hi>J.G.</hi> in his <hi>Doctr. of Nat.</hi> on purpose to keep in with <hi>O.P.</hi> our self, from whom we re<g ref="char:EOLhyphen"/>ceived <hi>100</hi> l. a yeer for our pimping under pretence of Astrologie for him. And we acknowledge that our Ascendent <hi>Pisces</hi> (to our own experience, is ten times worse and more trayterous, then <hi>Scorpio</hi> can be; witness our Widow undoing, and dealing by Mr. <hi>Satter<g ref="char:EOLhyphen"/>thwait,</hi> and our own second Wife, &amp; all her relations. We confess al<g ref="char:EOLhyphen"/>so, that <hi>J.G.</hi> hath written four Books in our defence, for the which we never payd him his costs out of Purse; and that he calculated divers Nativities for us, that we were never able to perform; but we never requited him with any thing but Trepans. To conclude, being in <hi>Vespera vitae,</hi> in the late evening of our life, we confess our work hath been nothing else but trepanning; let our Almanacks since <hi>1645.</hi> be examined, and they'll prove it; and we believe the same fate hath attended our <hi>Cuckoldly Chancery Lane-Grub<g ref="char:EOLhyphen"/>street</hi> Vindicator: who (like a right whelp of <hi>Lilly,</hi> a true mongril of our own breed,) predicted that we should have a <hi>Harry</hi> the Ninth, in the yeer that he heard <hi>Harry Cromwel</hi> was sent Deputy to <hi>Ireland.</hi>
+            </p>
+            <p>And truly, as it elevates others to hear of their due praises, we are rejoyced that we have a time convenient to express and confess these our Imposturisms, Impudencies, Cheatisms, and Trepans, because we presume we are not so far past hope yet, but that we believe, by this our ingenuous acknowledgement we shall find mercy; And that <hi>J.G.</hi> (though we have abused him most shamefully, and like a Villaine indeed) will improve his interest, and become our Prolocutor for the same.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168860:2"/>
+            <head>William Lilly <hi>Student in Astrologie,</hi> His past and present Opinion touching Monarchy in these Nations.</head>
+            <p>WE must here recount unto Posterity our so signal Prediction (or deducti<g ref="char:EOLhyphen"/>on rather) from the several Prophe<g ref="char:EOLhyphen"/>cies in our <hi>Monarchy or no Monarchy,</hi> published in 1651. In pag. 66. there<g ref="char:EOLhyphen"/>of, we wrote those words —<hi>That</hi> England <hi>shall be no more governed by Kings.</hi> And we must needs tell the world, that (notwithstanding the many clamours of <hi>Montelion</hi> the Knight of the Oracle, and the Boy who wrote <hi>the Novice Astrologer instructed,</hi> on purpose for our reproof) we are resolved still to adhere to that our so fa<g ref="char:EOLhyphen"/>mous Prediction (so accounted by all forraign Astrolo<g ref="char:EOLhyphen"/>gers) and with good grounds in our own Art will main<g ref="char:EOLhyphen"/>tain the same to be true, against any Opposer whatsoe<g ref="char:EOLhyphen"/>ver. 'Tis true, we were (as we have ingenuously confes<g ref="char:EOLhyphen"/>sed) a little misled in the Fate of our Patron, the King of <hi>Sweden;</hi> but we were well enough rewarded for that our mistake, yea, better then our Antagonists were ever for their serious pains against us.</p>
+            <p>Some out of disaffection to us, are pleased (against our prediction above-cited) to urge, that <hi>Oliver Cromwel</hi> that late famous Protector of <hi>England,</hi> &amp;c. was a breach of the truth thereof: saying, There is no difference between
+<pb n="2" facs="tcp:168860:3"/>
+               <hi>Rex</hi> and <hi>Protector,</hi> saving in <hi>nomine,</hi> in the name. We hold such foolish Criticisms, nor their Authors, worthy an Answer: for, <hi>Aquila non capit muscas:</hi> We know, as well as they, that they differ not in <hi>Re,</hi> in the thing, or matter. But we would fain hear of any of those strict Cavillers, or but one of them, that ever got one hundred pound a year, by any of their true Predictions, as we have done by our many hundred false ones. Then others idly ask us, why we maintained, <hi>That the Long Parliament should never be overcome, and yet afterwards rejoyce at their downfal?</hi> It is true, we sincerely acknowledge (and we will stand to it, maugre the malice of our and Astrolo<g ref="char:EOLhyphen"/>gies Enemies) that in 1651. in our Epistle to the Rea<g ref="char:EOLhyphen"/>der, pag. 5. we did hypothetically (or some way or o<g ref="char:EOLhyphen"/>ther) writ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>—<hi>If the Bastard Norman, having no other Title but a good Sword, long since overcame our fore-fathers; by that very Law have we expulsed his Successors, regained our native Rights, and entrusted them with the Parliament of the Commonwealth of</hi> England; <hi>and we will maintain this pow<g ref="char:EOLhyphen"/>er, and not return to feed upon the Garlick and Oynions of a Scotish Yoak.</hi> And in our Epistle to our Almanack 1647. pag. 1. thereof, we remember we did affirm— <hi>That God Almighty was our Parliaments loving Patron and Guardian,</hi> &amp;c. And in our general Judgement of that years actions, pag. 9. we maintained—<hi>That no person wha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>soever that shall endeavour— to destroy this presen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Parliament, should never attain their desires, but perish in the design.</hi> And in our Occurrences 1648. pag. 38. we also laid down a like position, <hi>viz. —That the main Body of this Parliament, and their Authority (maugre all an<g ref="char:EOLhyphen"/>gry Devils</hi> (here, you see, we were not affraid to term our Parliaments Enemies, Devils, no more then we were ashamed to term the King of <hi>Swedes</hi> Enemies so, in our <hi>Anglicus</hi> for the present Year; for which <hi>G. J.</hi> or
+<pb n="3" facs="tcp:168860:3"/>
+               <hi>J.G.</hi> in his <hi>Novice Astrologer instructed,</hi> seemeth to term us irreligious, but we are above Boyish Squibs) <hi>and Scotish faction) shall be preserved and stand.</hi> Nay, so zea<g ref="char:EOLhyphen"/>lous were we, in our writing for the Parliament, that in our <hi>Anglicus</hi> for 1650. pag. 4. of the Epistle thereof, we promised —<hi>That if the People of</hi> England <hi>would elect a Parliament of dead men, we would with Pen, Purse and Person, perform our uttermost service for the support of that Authority so elected and set up.</hi> And in pag. 6. of our <hi>Anglicus</hi> for 1651. we say, <hi>This Authority of Parliament must stand.</hi> These Predictions, with a hundred more, have we with great confidence, several years together, furnished our Nation with, to the great honour of Astrologie, but greater profit to our self. But as no person can write to please all palats, it hath happened that we have written somewhat in our other works or Astrological Labours since 1644. which being perused by Botchers, not Artists, they have (in envy to us) called contradicto<g ref="char:EOLhyphen"/>ry to what we have here rehearsed: But whether they be so or not, we desire the world at large, and not our ene<g ref="char:EOLhyphen"/>mies, to be our Judges. And we shall therefore (to prevent the being mis-represented by stitching Pens, and Scriblers: for you must know, it is for our Honour to imbase others, and never confess our self a <hi>Quondam</hi> Taylor, lest we be blasted perpetually thereby) we shall I say, therefore, relate those several passages our self, as the fittest for us to do, of any man, because no man else can truly understand our meaning. And so we be<g ref="char:EOLhyphen"/>gin with what first presents it self.—</p>
+            <p>In our Epistle to <hi>Anglicus</hi> 1652. we (in good will, after our Patron <hi>B. W.</hi> had told us) tell the Parliament, that —<hi>Providence, it seems, will have another Generation to enter upon this work, and to finish that great bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lding,</hi> &amp;c. <hi>and that we thought it our duty, ere their dissolution, to render
+<pb n="4" facs="tcp:168860:4"/> them what thankfulness our heart was able.</hi> And in our Almanack 1653. pag. 9. of our Predictions therein, we remember we Predicted—<hi>That if the Parliament shall— Inforce us to some new and Illegal Assessment, or by way of raising money, upon any pretence whatsoever—I am confi<g ref="char:EOLhyphen"/>dent, we of the Communalty, joyning with the souldiery, shall assume so much liberty to our selves, as to choose and elect such Members as hereafter shall be more tender of our purses, and more liberal of their own; and we shall endeavour so strictly to call unto account each Member of this Parliament, who hath fingered our Treasure, that we shall leave many of them as naked, as when they came out of their mothers wombs, or when first to be Members of Parliament.</hi> And in our <hi>Anglicus</hi> 1654. pag. 5. we very seasonably say, that <hi>had not that Parliament been miraculously routed, they had resolved to embrue this Nation in civil broyles, and to have destroyed this very Army, that gave them life and being.</hi> And in the same page, toward the lower end (with good ground in Astrology,) we affirm—<hi>They were unthankful to all that served them; and that they were never willing to make up a full house, unless for private ends of their own.</hi> And in our Postscript to that our Almanack, we say—<hi>I began to rouze up my self and angry Genius, expecting assu<g ref="char:EOLhyphen"/>redly a sudden change; which timely came to pass, by an especial providence of the Lord General</hi> Cromwel <hi>and Councel of Officers; who taking into serious consideration, the sloth, drowziness, and self-endedness of the then Parliament, and how little faith there was to be given to their Vo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of sitting no longer then</hi> Novemb. 1654. <hi>they being become as cunning as Taylors, knew how to make that Vote, two or three yards longer. And his excellency, in</hi> April 1653. <hi>the</hi> 20. <hi>day thereof, dissolves that Authority, to the great liking of the whole Nation, and so redeem'd us from a perpetual Parliament.</hi> And in <hi>An<g ref="char:EOLhyphen"/>glicus</hi> 1655. pag. 13. we write—<hi>The Parliament were
+<pb n="5" facs="tcp:168860:4"/> well eased of that burthen they never complained of,</hi> viz. <hi>of lording it over others, and obeying no body themselves; being the day before their dissolution honourable, but the next day, no more worshipful then a—we meant, T.</hi> Now we ask the very enemies of our self, and Astrology, what con<g ref="char:EOLhyphen"/>tradiction can be found in any of these our passages? If they shall say that to speak for, and against the Par<g ref="char:EOLhyphen"/>liament, be a contradiction in us, then indeed (with<g ref="char:EOLhyphen"/>out a <hi>distingu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndo</hi>) they say a seeming truth. But can they find in any one of our Almanacks, that we have spoken <hi>pro &amp; contra?</hi> If they cannot, let them be a<g ref="char:EOLhyphen"/>shamed to blame us, and lay the fault upon their own ignorance, or non-understanding of our Method. Could any man be so senceless, as to think our Pre<g ref="char:EOLhyphen"/>dictions should hold true, longer then our Almanack should last? if there be any contradictions (and they are but venial sins at most; for no man was ever damn'd for writing contradictions, if we may believe <hi>John Calvin,</hi> and <hi>Lisyppus</hi>) We are confident our mean<g ref="char:EOLhyphen"/>ing was good in them; and we reaped as much advan<g ref="char:EOLhyphen"/>tage thereby, as any others did for-the most superior truth that ever was predicted. If we do chance to in<g ref="char:EOLhyphen"/>terfere in our presages, and make them to justle one a<g ref="char:EOLhyphen"/>gainst the other, it is but that truth in our works might get the upper hand of errour and falshood; for you must understand we write both, that we may the better please all sorts of people; for, <hi>Quot homines, tot sententiae.</hi> Tell truth to a natural lyar, he'll but hate you for it; and had we so written always, we had never been ma<g ref="char:EOLhyphen"/>ster of a Gold Chaine, and 100 l. <hi>per Annum</hi> Salary from all Governments since 1646. to poor Protector <hi>Dick</hi>'s—downfal.</p>
+            <p>But now all <hi>England</hi> are big with expectation of a King, I, and King <hi>Charles</hi> too: well, let them be so; we
+<pb n="6" facs="tcp:168860:5"/> must keep close to our former Predictions. It is true, in 1651. we were not able (neither indeed were we at any other time) to cleave a hair in sunder; <hi>for we could not foresee the Scotch King</hi>'s <hi>creeping into</hi> England; <hi>it was an act of madness, and not of reason;</hi> as we then most Astrolo<g ref="char:EOLhyphen"/>gically wrote. However, in 1652. page 12. of our <hi>Angilcus</hi> for that year, we were enabled to <hi>predict unto the Scotish King no re-establishment in that year, nor in any year hereafter; and though he is alive, he may live a wandering life—Let the Orchades suffice or satisfy his hungry appetite; or those other Mountains and cold Islands give him a sufficient Patrimony; and he might think himself happy, if he could en<g ref="char:EOLhyphen"/>joy those barren Islands for his Patrimony, without distur<g ref="char:EOLhyphen"/>bance.</hi>
+            </p>
+            <p>Nay, so fearless were we in 1653. that in our <hi>Angli<g ref="char:EOLhyphen"/>cus</hi> of that year, pag. 10. <hi>we called him the pretended King of</hi> Scotland, <hi>and threatned him</hi> (without ground in Astro<g ref="char:EOLhyphen"/>logy, we readily acknowledge) <hi>with Poyson, Treachery, or a Stab; or something else as bad:</hi> and we solemnly profess, we are not yet ashamed thereof. For when <hi>Lambert</hi> got out of the Tower, we affirmed our self (as we ever have been) a Phanatique, and an utter enemy to Kingship: we admit of Kingship in a private Family, where our self is sole Monarch; but we hate all other Regalitie. And this we are perswaded to re-acquaint the world with, in this staggering time, (when neither <hi>Lamberts</hi> zeal, nor the <hi>Coleman-Street</hi> cursings can prevail,) and the rather, because my constant club-fisted friend <hi>John Booker,</hi> hath promised to hang himself, whenever the King comes into <hi>England:</hi> and since 'tis dishonorable to hang alone, we promise then, to swing with him for company: For Monarchie and we can't possibly stand together.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
